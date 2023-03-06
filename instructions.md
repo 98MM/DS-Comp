@@ -1,6 +1,6 @@
 # README #
 
-This is the repository that you will use at the starting point for the FRI Data Science Project Competition. In this readme file you will find short instructions for the most important tasks that are ahead of you.
+This is the repository that you will use at the starting point for the FRI Data Science Project Competition. In this readme file you will find short instructions for the mostest important tasks that are ahead of you.
 
 ## Branching ##
 
